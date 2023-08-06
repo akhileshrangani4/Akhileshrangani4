@@ -1,4 +1,4 @@
-![literally every coder](https://imgur.com/LoM2q26)
+![literally every coder](https://github.com/Akhileshrangani4/Akhileshrangani4/blob/main/imgs/github%20banner.png)
 
 [![](https://visitcount.itsvg.in/api?id=Akhileshrangani4&icon=3&color=12)](https://visitcount.itsvg.in)
 
