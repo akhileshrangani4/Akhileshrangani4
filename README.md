@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on sharpening my skills!<br>👯 I’m looking to collaborate on an automation project.<br>🤝 I’m looking for help with how to start in the field of AI/ML.<br>🌱 I’m currently learning machine learning.<br>💬 Ask me anything about Python!<br>⚡ Fun fact, I feel like I'm starting over again!
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Akhileshrangani4&icon=3&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
@@ -20,8 +20,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Akhileshrangani4&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
-
+---
 
