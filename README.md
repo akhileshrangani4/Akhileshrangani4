@@ -1,4 +1,4 @@
-![literally every coder](https://i.pinimg.com/564x/bb/7d/1a/bb7d1a87a53d6db3f257cff43b74ff7a.jpg)
+![literally every coder](https://drive.google.com/file/d/1WNNC1pC4h5x3f74RD7JtKHqbLiWvhmDu/view?usp=sharing)
 
 [![](https://visitcount.itsvg.in/api?id=Akhileshrangani4&icon=3&color=12)](https://visitcount.itsvg.in)
 
