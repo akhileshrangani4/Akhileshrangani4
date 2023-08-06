@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Akhileshrangani4&icon=3&color=12)](https://visitcount.itsvg.in)
 
-# 💫 About Me:
+# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm Akhilesh!
 🔭 I’m currently working on sharpening my skills!<br>👯 I’m looking to collaborate on an automation project.<br>🤝 I’m looking for help with how to start in the field of AI/ML.<br>🌱 I’m currently learning machine learning.<br>💬 Ask me anything about Python!<br>⚡ Fun fact, I feel like I'm starting over again!
 
 ## 🌐 Socials:
