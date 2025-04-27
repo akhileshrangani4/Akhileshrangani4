@@ -1,11 +1,11 @@
 <a href="https://twitter.com/heyavi_">
-  <img align="left" alt="Akhilesh Rangani's | X.com" width="26px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/x-light.svg"/>
+  <img align="left" alt="Akhilesh Rangani's | X.com" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/x-light.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/akhileshrangani/">
-  <img align="left" alt="Akhilesh's LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
+  <img align="left" alt="Akhilesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/9uj2mp03r2db3rt2nbraf1xwg?si=MAEG3HjvTZmM1JL4Hjotww&utm_source=copy-link&dl_branch=1">
-  <img align="left" alt="Akhilesh's Spotify" width="22px" src="https://cdn.worldvectorlogo.com/logos/spotify-2.svg" />
+  <img align="left" alt="Akhilesh's Spotify" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/spotify.svg" />
 </a>
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=akhileshrangani4.akhileshrangani4) -->
