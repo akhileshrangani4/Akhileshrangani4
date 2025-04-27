@@ -16,8 +16,8 @@
 *Hi, I'm **Akhilesh**! A Software Dev from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!✨*
 
 - 🔍 Building scalable AI-driven systems @ [GW Digital Humanities Institute](https://gwdhi.org/) with grant-backed projects, including an AI chatbot and open-access tools.
-- <img src="https://github.com/tambo-ai/tambo/blob/main/showcase/src/public/logo/icon/Octo-Icon.png" style="width: 20px;"/> Engineering at **[tambo](https:://tambo.co/)** — crafting AI-native UX, developing a CLI tool for installing AI components faster, and building a React component library for seamless AI integration.
-- <img src="https://github.com/jamesmurdza/gitwit-dev/blob/main/public/favicons/dark/android-chrome-512x512.png" style="width: 22px;" /> At GitWit, optimized code generation with Firebase and OpenAI; built ReactEval for efficient testing. 
+- <img src="https://github.com/tambo-ai/tambo/blob/main/showcase/src/public/logo/icon/Octo-Icon.png" style="width: 18px;"/> Engineering at **[tambo](https:://tambo.co/)** — crafting AI-native UX, developing a CLI tool for installing AI components faster, and building a React component library for seamless AI integration.
+- <img src="https://github.com/jamesmurdza/gitwit-dev/blob/main/public/favicons/dark/android-chrome-512x512.png" style="width: 18px;" /> At GitWit, optimized code generation with Firebase and OpenAI; built ReactEval for efficient testing. 
 - 🔭 Currently working on **[Sandbox IDE](https://sandbox.gitwit.dev)**, an open-source cloud IDE enabling real-time collaboration and one-click deployment.
 - 📊 Automating data workflows @ [OGSAF](https://gradfellowships.gwu.edu/), integrating Google Sheets and Gmail APIs via Python for streamlined reporting.
 - <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" style="width: 16px"/> Wanna reach out? Drop a hello at my [email](mailto:akhileshrangani4@gmail.com) ^_^
