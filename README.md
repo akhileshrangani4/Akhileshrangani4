@@ -1,5 +1,5 @@
 <a href="https://twitter.com/heyavi_">
-  <img align="left" alt="Akhilesh Rangani's | X.com" width="26px" src="https://cdn.cdnlogo.com/logos/t/48/twitter.png"/>
+  <img align="left" alt="Akhilesh Rangani's | X.com" width="26px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/x-light.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/akhileshrangani/">
   <img align="left" alt="Akhilesh's LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" />
