@@ -20,5 +20,5 @@
 - <img src="https://github.com/jamesmurdza/gitwit-dev/blob/main/public/favicons/dark/android-chrome-512x512.png" style="width: 22px;" /> At GitWit, optimized code generation with Firebase and OpenAI; built ReactEval for efficient testing. 
 - 🔭 Currently working on **[Sandbox IDE](https://sandbox.gitwit.dev)**, an open-source cloud IDE enabling real-time collaboration and one-click deployment.
 - 📊 Automating data workflows @ [OGSAF](https://gradfellowships.gwu.edu/), integrating Google Sheets and Gmail APIs via Python for streamlined reporting.
-- 💼 Wanna reach out? Drop a hello at my [email](mailto:akhileshrangani4@gmail.com) ^_^
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" style="width: 16px"/> Wanna reach out? Drop a hello at my [email](mailto:akhileshrangani4@gmail.com) ^_^
 - 💬 Ask me about anything, I am happy to help!
