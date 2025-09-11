@@ -1,4 +1,4 @@
-<a href="https://x.com/heyavi_">
+<a href="https://x.com/akhileshrangani">
   <img align="left" alt="Akhilesh Rangani's | X.com" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/x-light.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/akhileshrangani/">
