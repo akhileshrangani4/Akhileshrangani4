@@ -15,7 +15,7 @@
 *Hey, I’m **Akhilesh (Avi)** — a software engineer who likes building real things that people actually use.*
 
 - 🧠 **Lead engineer behind [Teachanything.ai](https://teachanything.ai)** (formerly AI Alexa) — an open-source, production RAG platform that lets professors design their own AI teaching assistants. Used globally, grant-backed, and recently featured in *The New York Times*.
-- 🏛️ Building AI tools for education and digital humanities @ **GW Digital Humanities Institute**, working closely with faculty on AI literacy, retrieval systems, and academic guardrails.
+- 🏛️ Building AI tools for education and digital humanities @ **[GW Digital Humanities Institute](https://gwdhi.org/)**, working closely with faculty on AI literacy, retrieval systems, and academic guardrails.
 - <img src="https://github.com/tambo-ai/tambo/blob/main/showcase/src/public/logo/icon/Octo-Icon.png" style="width: 18px;"/> **Founding engineer @ [tambo](https://tambo.co)** — working on AI-native UX, a CLI for installing AI components, and a React component system for generative interfaces.
 - <img src="https://github.com/jamesmurdza/gitwit-dev/blob/main/public/favicons/dark/android-chrome-512x512.png" style="width: 18px;" /> **Core contributor @ [GitWit](https://gitwit.dev)** — built infra for AI codegen, ReactEval for automated testing, and an open-source sandboxed cloud IDE.
 - 🔭 Currently obsessed with **developer tools, RAG systems, and generative UI** — especially things that blur the line between product and interface.
