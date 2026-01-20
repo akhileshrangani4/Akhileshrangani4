@@ -1,24 +1,24 @@
 <a href="https://x.com/akhileshrangani">
-  <img align="left" alt="Akhilesh Rangani's | X.com" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/x-light.svg"/>
+  <img align="left" alt="Akhilesh Rangani | X.com" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/x-light.svg"/>
 </a>
 <a href="https://www.linkedin.com/in/akhileshrangani/">
   <img align="left" alt="Akhilesh's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/9uj2mp03r2db3rt2nbraf1xwg?si=MAEG3HjvTZmM1JL4Hjotww&utm_source=copy-link&dl_branch=1">
+<a href="https://open.spotify.com/user/9uj2mp03r2db3rt2nbraf1xwg">
   <img align="left" alt="Akhilesh's Spotify" width="22px" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/spotify.svg" />
 </a>
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=akhileshrangani4.akhileshrangani4) -->
-<img src="https://komarev.com/ghpvc/?username=akhileshrangani4&label=Profile%20views&color=blueviolet&style=flat" alt="manncodes" />
+<img src="https://komarev.com/ghpvc/?username=akhileshrangani4&label=Profile%20views&color=blueviolet&style=flat" alt="profile views" />
 
 <br />
 
-*Hi, I'm **Akhilesh**! A Software Dev from India. I develop stuff ranging from state-of-the-art to just-for-fun and everything in between!✨*
+*Hey, I’m **Akhilesh (Avi)** — a software engineer who likes building real things that people actually use.*
 
-- 🔍 Building scalable AI-driven systems @ [GW Digital Humanities Institute](https://gwdhi.org/) with grant-backed projects, including an AI chatbot and open-access tools.
-- <img src="https://github.com/tambo-ai/tambo/blob/main/showcase/src/public/logo/icon/Octo-Icon.png" style="width: 18px;"/> Engineering at **[tambo](https:://tambo.co/)** — crafting AI-native UX, developing a CLI tool for installing AI components faster, and building a React component library for seamless AI integration.
-- <img src="https://github.com/jamesmurdza/gitwit-dev/blob/main/public/favicons/dark/android-chrome-512x512.png" style="width: 18px;" /> At GitWit, optimized code generation with Firebase and OpenAI; built ReactEval for efficient testing. 
-- 🔭 Currently working on **[Sandbox IDE](https://sandbox.gitwit.dev)**, an open-source cloud IDE enabling real-time collaboration and one-click deployment.
-- 📊 Automating data workflows @ [OGSAF](https://gradfellowships.gwu.edu/), integrating Google Sheets and Gmail APIs via Python for streamlined reporting.
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gmail.svg" style="width: 16px"/> Wanna reach out? Drop a hello at my [email](mailto:akhileshrangani4@gmail.com) ^_^
-- 💬 Ask me about anything, I am happy to help!
+- 🧠 **Lead engineer behind [Teachanything.ai](https://teachanything.ai)** (formerly AI Alexa) — an open-source, production RAG platform that lets professors design their own AI teaching assistants. Used globally, grant-backed, and recently featured in *The New York Times*.
+- 🏛️ Building AI tools for education and digital humanities @ **GW Digital Humanities Institute**, working closely with faculty on AI literacy, retrieval systems, and academic guardrails.
+- <img src="https://github.com/tambo-ai/tambo/blob/main/showcase/src/public/logo/icon/Octo-Icon.png" style="width: 18px;"/> **Founding engineer @ [tambo](https://tambo.co)** — working on AI-native UX, a CLI for installing AI components, and a React component system for generative interfaces.
+- <img src="https://github.com/jamesmurdza/gitwit-dev/blob/main/public/favicons/dark/android-chrome-512x512.png" style="width: 18px;" /> **Core contributor @ [GitWit](https://gitwit.dev)** — built infra for AI codegen, ReactEval for automated testing, and an open-source sandboxed cloud IDE.
+- 🔭 Currently obsessed with **developer tools, RAG systems, and generative UI** — especially things that blur the line between product and interface.
+- 📫 Reach me at **[akhileshrangani4@gmail.com](mailto:akhileshrangani4@gmail.com)**  
+- 💬 Happy to chat about AI systems, startups, devtools, or just building stuff end-to-end.
+
